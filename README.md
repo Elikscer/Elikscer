@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 - I’m currently learning JavaScript and Python, and am a computer science student at Utah Valley University.
 </br>Contact:</br>
   Email: elikscer@gmail.com </br>
-  Website: elikscer.com </br>
+  Website: <a href="www.elikscer.com">elikscer.com</a> </br>
